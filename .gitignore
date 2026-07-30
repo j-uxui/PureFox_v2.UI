@@ -20,5 +20,14 @@ AGENTS.md
 tests
 cmt-*.tar.gz
 
-
+.DS_Store
+.vscode
+.kilocodemodes
+mode_modules
+*.log
+Icon?
+Icon
+settings.json
+.kilo
+kilo.json
 
