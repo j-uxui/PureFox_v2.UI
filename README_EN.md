@@ -67,7 +67,7 @@ SSH access is enabled: login `root`, password: `purefox`.
 - **EXT** — external master clock
 - **PLL** — RV1106 frequency synthesizer. The quality of the internal PLL is surprisingly high. According to numerous subjective tests by audio experts, the internal PLL sound quality rivals that of expensive external clock generators.
 
-<img title="" src="images/2026-05-24-10-02-10-image.png" alt="" width="389">
+<img title="" src="images/I2S Settings.png" alt="" width="389">
 
 The I2S menu settings are configured in the web interface (the "I2S Settings" page) and let you adapt the I2S output to your DAC:
 
